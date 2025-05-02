@@ -9,4 +9,4 @@ Please check subfolders for further information on each version.
 
 ## 2023 Team Faabs Robot
 
-![Team Faabs 2023 Robot](/Team_Faabs/HBG%20v2023/HBG%20v2023.png)
+![Team Faabs 2023 Robot](/Team_Faabs/HBG%20v2023/HBG%20v2023.jpg)
